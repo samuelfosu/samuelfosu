@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samuel Fosu</h1>
-<h3 align="center">An ALX Software Engineering Student</h3>
+<h3 align="center">🔭 Currently enrolled in the ALX SE Program</h3>
 
 <!--
 **samuelfosu/samuelfosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-<!-- 🔭 Currently enrolled in the ALX SE Program-->
+<!-- -->
 - 🌱 Embarking on a journey to master the principles, practices, and technologies that drive the creation of robust and efficient software systems.
 - 👯 Willing to collaborate on projects related to **C, Python, JS, and SQL.**
 - 🤔 I seek assistance in discovering internships, job openings, and opportunities that will contribute significantly to my professional development as a software engineer. I am eager to explore roles that will challenge me, foster continuous learning, and allow me to make meaningful contributions to innovative projects.
