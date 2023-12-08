@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Currently enrolled in the ALX SE Program
+<!-- 🔭 Currently enrolled in the ALX SE Program-->
 - 🌱 Embarking on a journey to master the principles, practices, and technologies that drive the creation of robust and efficient software systems.
 - 👯 Willing to collaborate on projects related to **C, Python, JS, and SQL.**
 - 🤔 I seek assistance in discovering internships, job openings, and opportunities that will contribute significantly to my professional development as a software engineer. I am eager to explore roles that will challenge me, foster continuous learning, and allow me to make meaningful contributions to innovative projects.
