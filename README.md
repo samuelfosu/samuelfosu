@@ -7,13 +7,11 @@
 Here are some ideas to get you started:
 
 <!-- -->
-- 🌱 Mastering principles for robust software creation.
-- 👯 Let's collaborate on C, Python, JS, SQL projects.
+- 🌱 Mastering principles for robust software creation
+- 👯 Let's collaborate on C, Python, JS, and SQL projects
 - 🤔 Seeking opportunities for software engineering growth
-- 💬 Ask me about **C, Python, JS, and SQL**
 - 📫 You can reach me via **sfosu003@gmail.com**
 - 😄 Grit: Success superpower, beats talent alone
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
