@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <!-- -->
 - 🌱 Mastering principles for robust software creation
-- 👯 Let's collaborate on C, Python, JS, and SQL projects
+- 👯 Let's collaborate on **C, Python, JS, and SQL**
 - 🤔 Seeking opportunities for software engineering growth
 - 📫 You can reach me via **sfosu003@gmail.com**
 - 😄 Grit: Success superpower, beats talent alone
