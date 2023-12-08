@@ -1,10 +1,5 @@
-### Hi there 👋
-
-<!--<img align='center' width='1020' src='(https://img.freepik.com/premium-photo/visionary-programming-coding-future-software_31965-57952.jpg)?>
--->
-
-<h1 align="center">Hi 👋, I'm Sammykingx</h1>
-<h3 align="center">A Python Backend SE</h3>
+<h1 align="center">Hi 👋, I'm Samuel Fosu</h1>
+<h3 align="center">An ALX Software Engineering Student</h3>
 
 <!--
 **samuelfosu/samuelfosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +14,6 @@ Here are some ideas to get you started:
 - 📫 You can reach me via **sfosu003@gmail.com**
 - 😄 Grit is like a secret superpower for success! Studies have shown that grit—the combination of passion and perseverance—is often a more reliable predictor of long-term success than talent alone. So, it turns out that sticking with your goals, even when the going gets tough, can be the key to achieving extraordinary things!
 -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammykingx&label=Profile%20views&color=0e75b6&style=flat" alt="Samuel Fosu" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
